@@ -12,10 +12,10 @@ In MathConnect, you strategically merge tiles by connecting two numbers with a m
 Here's a glimpse of what to expect in MathConnect:
 
 ### Standard Version (Basic Symbols)
-![Screenshot of Standard Version](images/MathConnectExample1.png)
-![Screenshot of Standard Version](images/MathConnectExample2.png)
+![Screenshot of Standard Version](screenshots/MathConnectExample1.png)
+![Screenshot of Standard Version](screenshots/MathConnectExample2.png)
 
 ### Advanced Version (Advanced Symbols)
-![Screenshot of Advanced Version](images/MathConnectExample3.png)
-![Screenshot of Advanced Version](images/MathConnectExample4.png)
-![Screenshot of Advanced Version](images/MathConnectExample5.png)
+![Screenshot of Advanced Version](screenshots/MathConnectExample3.png)
+![Screenshot of Advanced Version](screenshots/MathConnectExample4.png)
+![Screenshot of Advanced Version](screenshots/MathConnectExample5.png)
