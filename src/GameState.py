@@ -78,7 +78,8 @@ class GameState:
 
     def generate_random_item(self):
         numbers = "2468"  # "123456789"
-        operators = "+-/*"  # "&/*^+-=%"
+        operators = "+-/*"  
+        # operators = "&/*^+-=%"
 
         num_numbers = 0
         num_operators = 0
