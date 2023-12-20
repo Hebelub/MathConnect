@@ -6,7 +6,7 @@ In MathConnect, you strategically merge tiles by connecting two numbers with a m
 
 ## Unique Game Mechanics
 - **Predictive Spawning:** The game board shows potential spawn locations with a yellow outline. If multiple outlined spaces are available, the algorithm chooses a location with free space after your move. This predictive mechanism ensures there's always room for the next piece, adding a strategic layer to your gameplay.
-- **Efficient Placement:** The algorithm is designed to place new tiles in the most efficient way possible, keeping the game challenging yet playable.
+- **Efficient Placement:** The algorithm is designed to display the yellow outline in the most efficient way possible, keeping the game clean and interesting.
 
 ## Screenshots
 Here's a glimpse of what to expect in MathConnect:
